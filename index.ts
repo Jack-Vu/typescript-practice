@@ -6,3 +6,6 @@ console.log(age);
 
 let isStudent: boolean = true;
 console.log(isStudent);
+
+const names: string[] = ["Alice", "Bob", "Charlie"];
+console.log(names);
