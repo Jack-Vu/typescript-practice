@@ -64,3 +64,5 @@ const teamManager: Manager = {
   id: 1,
   teamSize: 3,
 };
+
+console.log("made changes");
